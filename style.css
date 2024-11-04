@@ -1,0 +1,6 @@
+.row > div {
+  background-color: blue;
+  padding: 20px;
+  border: 2px solid black;
+  flex-wrap: wrap;
+}/*# sourceMappingURL=style.css.map */
